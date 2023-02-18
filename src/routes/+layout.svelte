@@ -5,7 +5,6 @@
 	import { AppShell, AppBar } from '@skeletonlabs/skeleton';
 	import { LightSwitch } from '@skeletonlabs/skeleton';
 </script>
-
 <!-- App Shell -->
 <AppShell>
 	<svelte:fragment slot="header">
