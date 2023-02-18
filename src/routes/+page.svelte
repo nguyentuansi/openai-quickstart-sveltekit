@@ -57,13 +57,6 @@
 							required
 						/>
 					</label>
-					<!-- <input
-					type="search"
-					name="prompt"
-					bind:value={promptInput}
-					placeholder="What is Mixcore CMS?"
-					required
-				/> -->
 
 					<!-- Range slider -->
 					<svelte:component
@@ -82,34 +75,6 @@
 							<div class="text-xs">{temperatureInput} / 1</div>
 						</div>
 					</svelte:component>
-					<!-- <RangeSlider
-						name="range-slider"
-						min={0}
-						max={1}
-						step={0.1}
-						bind:value={temperatureInput}
-						ticked
-						class="cursor-pointer"
-					>
-						Temperature :
-						<span
-							class="underline cursor-pointer"
-							use:tooltip={{ content: 'Lower = more accurate; higher = more diverse.' }}
-							>{temperatureInput}</span
-						>
-					</RangeSlider> -->
-					<!-- <input
-						type="range"
-						min="0"
-						max="1"
-						step="0.1"
-						name="temperature"
-						bind:value={temperatureInput}
-					/> -->
-
-					<!-- Button -->
-
-					<!-- <button type="submit" aria-busy={loading}>Submit</button> -->
 				</div>
 				<footer class="card-footer text-center">
 					<button class="btn btn-lg variant-filled-primary mb-4" type="submit" aria-busy={loading}>
