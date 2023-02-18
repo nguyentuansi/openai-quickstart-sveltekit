@@ -45,4 +45,4 @@ This is an example pet name generator app used in the OpenAI API. It uses the [S
    $ npm run dev
    ```
 
-You should now be able to access the app at [http://127.0.0.1:5173](http://127.0.0.1:5173)! For the full context for other examples, check out the [tutorial](https://beta.openai.com/docs/quickstart).
+You should now be able to access the app at [http://127.0.0.1:5173](http://127.0.0.1:5173)! For the full context for other examples, check out the [tutorial](https://beta.openai.com/docs/quickstart)
