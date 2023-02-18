@@ -5,7 +5,7 @@
 </div>
 <br />
 
-# OpenAI API Quickstart - SvelteKit Project
+# Quickstart - SvelteKit Project with OpenAI
 
 This is an example pet name generator app used in the OpenAI API. It uses the [SvelteKit](https://kit.svelte.dev/) framework with [Pico](https://picocss.com/). Check out the tutorial or follow the instructions below to get set up.
 
